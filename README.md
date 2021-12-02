@@ -1,5 +1,5 @@
 # neural_networks_in_agriculture
-automation in agriculture, agriculture, ripe tomatoes, unripe tomatoes
+automation in agriculture
 ## Description
 The set allows to classify the tomatoes according to their ripeness level for the further automation of the sorting process.
 ## Dataset
