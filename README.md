@@ -4,8 +4,8 @@ automation in agriculture, agriculture, ripe tomatoes, unripe tomatoes
 The set allows to classify the tomatoes according to their ripeness level for the further automation of the sorting process.
 ## Dataset
 High quality data set of images that contains tomatoes. The set allows to classify the tomatoes according to their ripeness level for the further automation of the sorting process. The following types of tomatoes are included (according to their ripeness level): ripe and unripe.
-<a href= "https://www.dropbox.com/s/xr9korqevso13dn/train.zip?dl=0">train</a>
-<a href= "https://www.dropbox.com/s/jobbumuysmfpzoz/ezyzip.zip?dl=0">test</a>
+<p><a href= "https://www.dropbox.com/s/xr9korqevso13dn/train.zip?dl=0">train</a></p>
+<p><a href= "https://www.dropbox.com/s/jobbumuysmfpzoz/ezyzip.zip?dl=0">test</a></p>
 ## Dataset properties
 
 Total number of images: 2026.
